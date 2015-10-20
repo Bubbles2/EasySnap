@@ -1,0 +1,29 @@
+﻿Contacts Screen
+===============
+
+This screen displays a list of contacts from your contacts application.
+
+If there are no contacts displayed it may be because you have not set up any contacts, or connected to your online application.
+
+At the bottom of the screen from left to right we have 4 buttons.
+
+Buttons
+=======
+
+Settings Button
+-------------------------
+Within Google contacts we can associate contacts with groups we use this button to select which group of contacts we wish to display in the list of contacts.
+
+Search Button 
+-----------------------
+From here we can search our contacts,you can start entering search criteria (name , notes etc), the system will start proposing items as you enter data.
+You can select a proposition at any time and go directly to contact details.
+
+Advanced Search
+-----------------------------
+From here can create a search based on an address or part of an address, post code included you can also search on notes, this provides very ﬂexible searching on the notes ﬁeld of Google contacts.
+
+Help
+-------- 
+This provides some user help.
+

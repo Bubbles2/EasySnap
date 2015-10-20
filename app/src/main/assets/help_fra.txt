@@ -1,0 +1,28 @@
+﻿Ecran : liste des contacts
+===================
+
+Cet écran affiche une liste de contacts extraite de votre logiciel de contacts.
+
+Si aucun contact ne s'affiche, c'est soit que  vous n 'avez inscrit aucun contact, soit que vous n'avez pas relié ces contacts à l'application online.
+
+Au bas de l'écran, de gauche à droite, vous avez 4 boutons :
+
+Boutons
+=======
+
+Bouton de réglages
+----------------------------
+Avec les contacts Google, on peut  associer avec des groupes. Utiliser ce bouton pour sélectionner le groupe de contacts que vous souhaitez afficher.
+
+Bouton de recherche
+------------------------------
+De là, on peut chercher ses contacts et introduire des critères de contacts (par nom, notes etc...) Ce système va alors commencer  à proposer des liens en fonction des données que vous aurez rentrées.
+Vous pouvez choisir une proposition à n'importe quel moment et allez directement dans votre liste de contacts.
+
+Bouton de recherche avancée
+-----------------------------------------
+De là, vous pouvez créer une recherche à partir d'une adresse ou une partie d 'adresse (code postal inclus). Vous pouvez également effectuer une recherche à partir de vos notes ce qui permet une vaste recherche à partir des zones notes Google.
+
+Aide
+--------
+Cette touche vous permet de trouver  l'aide nécessaire.

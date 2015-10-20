@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EasySnap</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_select_contact_group">Sel.Contact Grp</string>
+    <string name="findContact">Find Contact</string>
+    <string name="title_activity_client_detail">Client Detail</string>
+    <string name="cannot">Cannot</string>
+    <string name="btnIntend">Large Photo</string>
+    <string name="album_name">EstAgentDF</string>
+    <string name="title_activity_photo_fragment">Client Photos</string>
+    <string name="title_activity_contact_search_results">Contact Search Results</string>
+    <string name="del_photo_dir">Delete Photos</string>
+    <string name="ser_address">Search on Address</string>
+    <string name="ser_notes">Search in Notes</string>
+    <string name="title_activity_google_map">Google - Contact Location</string>
+    <string name="select_contact_group">Select Contact Group</string>
+    <string name="client_detail">Contact Details</string>
+    <string name="contact_location">Contact Location</string>
+    <string name="call_log">Call Log</string>
+    <string name="title_activity_asearch">Advanced Search</string>
+    <string name="title_activity_test">Test</string>
+    <string name="ok_str">OK</string>
+    <string name="cancel_str">Cancel</string>
+    <string name="address_str">Address</string>
+    <string name="note_str">Notes</string>
+    <string name="call_log_str">Call Log</string>
+    
+    
+    <string name="searchingString">Searching...</string>
+    <string name="searchMsgString">Please wait while loading client photos...</string>
+    <string name="title_activity_help">Help </string>
+    <string name="title_activity_help2">Help</string>
+    <string name="delete_entry">Delete Contact Photos</string>
+    <string name="delete_msg">Are you sure you wish to delete all photographs for this contact ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+  
+    <string name="adv_ser">Adv. Search</string>
+    <string name="ser">Search</string>
+    
+
+</resources>

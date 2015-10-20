@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="searchMsgString">Veuillez patienter pendant le chargement des photos clients</string>
+    <string name="app_name">EasySnap</string>
+    <string name="action_settings">Paramettrage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_select_contact_group">Sélectionnez Groupe de contact</string>
+    <string name="findContact">Rechercher un contact</string>
+    <string name="title_activity_client_detail">Coordonnées Client</string>
+    <string name="cannot">Cannot</string>
+    <string name="btnIntend">Large Photo</string>
+    <string name="album_name">EstAgentDF</string>
+   
+    <string name="title_activity_photo_fragment">Photos Client</string>
+    <string name="del_photo_dir">Supprimer des Photos</string>
+    <string name="ser_address">Recherche sur des Adresses</string>
+   
+    <string name="ser_notes">Recherche sur des Notes</string>
+    <string name="title_activity_google_map">Google - Localisation du Contact</string>
+    <string name="contact_location">Localisation du Contact</string>
+    <string name="call_log">Liste des appels</string>
+    <string name="title_activity_asearch">Recherche avancée</string>
+    <string name="title_activity_test">Test</string>
+    <string name="ok_str">OK</string>
+    <string name="cancel_str">Annul.</string>
+    <string name="address_str">Address</string>
+    <string name="note_str">Notes</string>
+    <string name="call_log_str">Liste des appels</string>
+    <string name="searchingString">Recherche...</string>
+    
+    <string name="title_activity_contact_search_results">Résultats de recherche contacts</string>
+     <string name="select_contact_group">Sélectionnez Groupe de contact</string>
+     <string name="client_detail">Coordonnées Client</string>
+ 
+    <string name="title_activity_help">Aide</string>
+    <string name="title_activity_help2">Aide</string>
+    <string name="delete_entry">Supprimer toutes les photos de ce contact</string>
+    <string name="delete_msg">Etes-vous sûr que vous voulez supprimer toutes les photos de ce contact ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    
+     <string name="adv_ser">Rech.adv.</string>
+    <string name="ser">Rechrche</string>
+   
+    
+     
+
+</resources>

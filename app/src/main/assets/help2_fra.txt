@@ -1,0 +1,53 @@
+﻿Cet écran affiche les détails de vos contacts.
+Il y a 3 différentes zones à distinguer :
+1.  L'écran principal affiche le détails des contacts tels que l'adresse, le numéro de téléphone, l'adresse e-mail. On peut afficher aussi tout l'historique des appels avec ce contact.
+2.  En haut de l'écran , sur la zone principale, il y a une section "Onglets" qui permet d 'afficher d'autres renseignements.
+3.  Selon le modèle  utilisé, il y aura une section "action" en haut ou en bas de l'écran qui permet de produire des actions avec le contact.
+
+
+Section Onglets
+=============
+
+De là, on peut afficher diverses informations recoupées à partir des contacts sur la zone principale de l'écran . On peut selectionner    un onglet en touchant l'écran ou en le balayant pour changer d'onglet.         . 
+De gauche à droite, nous avons les boutons suivants :
+
+
+Touche Répertoire 
+------------------------------
+On trouve les informations principales comme l 'adresse, le numéro de téléphone, l 'adresse mail, ainsi que l 'historique des appels échangés avec ce contact.
+
+Touche Photos
+------------------------
+On peut consulter toutes les photos prises pour le contact. En touchant une photo, on peut l 'agrandir et voir les détails qui apparaitront dans le 4ème onglet appelé Onglet Détails Photos.
+
+Touche Agenda
+---------------------------
+De là, on peut consulter tous les rendez -vous qui ont été  pris avec ce contact,  si les rendez-vous ont été lier (inviter) via son adresse email
+
+Touche Details Photos
+-------------------------------------
+En touchant une photo sélectionnée dans la Galerie photos, vous pouvez l'envoyer en pièce jointe d'une email.
+
+Section Action
+============
+Cette section permet d'effectuer des actions pour un contact, on trouve les boutons suivants de gauche à droite :
+
+Bouton téléphone
+-----------------------------
+Cette option permet à l'utilisateur d'appeler le contact par téléphone.
+
+Bouton photo
+----------------------
+Ce bouton  vous permet de prendre une photo qui sera automatiquement insérée dans la galerie photos de ce contact. Le bouton géolocalisation devra être réglé afin d'afficher automatiquement l'endroit où la photo a été prise.
+
+Bouton plan
+--------------------
+Ce bouton permet de localiser les contacts sur Google Map
+
+Bouton aide
+------------------
+Cette touche vous permet de trouver  l'aide nécessaire.
+Bouton réglage
+------------------------
+A partir de ce bouton, vous avez accès au menu "Settings".
+Supprimer les photos : cette option effacera la galerie de photos de ce contact.

@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".ASearch" >
+
+    <LinearLayout
+        android:id="@+id/layout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/my_border"
+        android:orientation="vertical" >
+
+        <EditText
+        android:id="@+id/txtSerAddress"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         android:hint="@string/address_str">
+               <requestFocus />
+            </EditText>
+        
+      <EditText
+        android:id="@+id/txtSerNotes"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/note_str" >
+    </EditText>
+    
+
+    <Button
+        android:id="@+id/button1"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/txtSerAddress"
+        android:layout_marginRight="14dp"
+        android:onClick="onSearch"
+        android:text="Search" />
+    
+    </LinearLayout>
+    
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout1" >
+
+    </ListView>
+    
+  
+  
+</RelativeLayout>
+<!-- From: file:/Users/dfinlay-air/Desktop/PlayDev/EasySnap/app/src/main/res/layout/activity_asearch.xml -->

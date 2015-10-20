@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/txtSerAddress"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/address_str" >
+
+        <requestFocus />
+    </EditText>
+
+     <EditText
+         android:id="@+id/txtSerNotes"
+         android:layout_width="244dp"
+         android:layout_height="wrap_content"
+         android:hint="@string/note_str" />
+
+     <RelativeLayout
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:orientation="horizontal" >
+
+         <Button
+             android:id="@+id/dialogButtonOK"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="@string/ok_str" />
+
+         <Button
+             android:id="@+id/dialogButtonCancel"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_alignParentRight="true"
+             android:text="@string/cancel_str" />
+     </RelativeLayout>
+
+</LinearLayout>
+<!-- From: file:/Users/dfinlay-air/Desktop/PlayDev/EasySnap/app/src/main/res/layout/activity_advanced_search_dialog.xml -->

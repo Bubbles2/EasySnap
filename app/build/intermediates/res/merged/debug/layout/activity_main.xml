@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+       tools:context=".MainActivity" >
+
+      <ListView
+          android:id="@+id/list1"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:stackFromBottom="false" 
+          android:transcriptMode="normal" >
+      </ListView>
+
+</RelativeLayout>
+<!-- From: file:/Users/dfinlay-air/Desktop/PlayDev/EasySnap/app/src/main/res/layout/activity_main.xml -->

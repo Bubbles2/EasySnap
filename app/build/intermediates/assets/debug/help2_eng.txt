@@ -1,0 +1,56 @@
+﻿This screen displays contact details.
+
+There are three main Areas to review.
+
+	1.	The main screen where we display contact details such as address, phone no and email. We also display a call log for all the calls we have made to this contact.
+	2. 	At the top of the screen over the main area we have a tab section each tab will other contact information.
+	3.  Depending on the equipment used there will be an action section at the top or at the bottom of the screen, which allows us to perform actions. 
+		
+TAB Section
+===========
+From her we can display various items of contact information in the main screen area. We can select a tab by pressing it or we can swipe the screen to change the tab. From left to right we have the following buttons.
+
+Person Tab
+-------------------- 
+From here we display the main contact information such as address, phone no and email.We also display a call log for all the calls we have made to this contact.
+
+Gallery Tab 
+--------------------
+From here we display all the photos we have taken for the contact, we touch a photo in the gallery to display it in more detail, it will then display the fourth tab the Photo Detail Tab.
+
+Calendar Tab 
+------------------------
+From here you can display any calendar items that have been set up for this user, we link the calendar item to the contact by entering the contacts email as an attendee for the calendar item.
+
+Photo Detail Tab
+-------------------------
+Her we display a photo selected in the gallery, if we touch the the photo we are given the opportunity to send the photo as an email attachment.
+
+Action Section
+=============
+
+The action section allows us to perform actions for a contact. We have the following buttons from left to right.
+
+Telephone Button
+------------------------------
+This option allows the user to call the contact by phone.
+
+Camera Button 
+-------------------------
+From her you have the option to take a photograph, which will automatically be associated with this contacts gallery. The geolocation button should be set to allow us to automatically link the location to the photograph taken.
+
+Map Button 
+--------------------
+This button allows us to position the contacts location with Google Maps.
+
+Help Button
+--------------------
+The help button, You are here.
+
+Settings Button
+----------------------
+From her we have a dropdown list of other menu options.
+Delete Photos : This will the delete the gallery for this contact.
+
+
+	

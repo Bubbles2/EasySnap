@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+            <LinearLayout
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:orientation="vertical" >
+
+             <RelativeLayout
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content" >
+                 
+                  <TextView
+                 android:id="@+id/nameTxt"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:hint="Name"
+                 android:layout_marginLeft="5dp"
+                 android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                  <TextView
+                      android:id="@+id/addressTxt"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:layout_marginLeft="5dp"
+                      android:layout_alignParentLeft="true"
+                      android:layout_below="@+id/nameTxt"
+                      android:hint="Address"
+                      android:textAppearance="?android:attr/textAppearanceMedium" />
+                  
+                  
+             <TextView
+                 android:id="@+id/emailtxt"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="5dp"
+                 android:hint="E-Mail"
+                 android:layout_alignParentLeft="true"
+                 android:layout_below="@+id/addressTxt"
+                 android:textAppearance="?android:attr/textAppearanceMedium" />
+             
+                      <ImageView
+ 		    android:id="@+id/conImage"
+ 		    android:layout_width="108dp"
+ 		    android:layout_height="108dp"
+ 		    android:layout_alignParentRight="true"
+        	android:layout_alignTop="@+id/nameTxt"
+        	android:layout_marginRight="20dp"
+        	android:layout_marginTop="5dp"
+ 		    /> 
+   
+
+               <TextView
+                 android:id="@+id/phonetxt"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="5dp"
+                 android:layout_alignParentLeft="true"
+                 android:layout_below="@+id/emailtxt"
+                 android:hint="Phone"
+                 android:textAppearance="?android:attr/textAppearanceMedium" />
+             
+             
+               
+             
+                 
+             </RelativeLayout>
+
+          
+
+             <TextView
+                 android:id="@+id/textView2"
+                 android:layout_width="170dp"
+                 android:layout_height="wrap_content"
+                 android:text="\n" />
+
+             <TextView
+                 android:id="@+id/textView1"
+                 android:layout_width="170dp"
+                 android:layout_height="wrap_content"
+                 android:gravity="center_horizontal"
+                 android:text="@string/call_log_str"
+                 android:textAppearance="?android:attr/textAppearanceLarge" />
+          
+            
+         </LinearLayout>
+
+
+        
+ 
+      
+         <ListView
+             android:id="@+id/callList"
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content" >
+         </ListView>
+
+</LinearLayout>
